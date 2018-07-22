@@ -1,0 +1,12 @@
+/* Di atas tablet */
+@media screen and (min-width: 720px) {
+    nav .brand-logo {
+        padding-left: 120px;
+    }
+    #sectionBanner {
+        padding-top: 10px;
+    }
+    .collapsible {
+        line-height: 80%;
+    }
+}
